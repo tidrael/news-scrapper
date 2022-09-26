@@ -1,0 +1,20 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+requests
+
+selenium
+webdriver-manager
+# ----------------------
+# Image processing
+# ----------------------
+# pillow
+# torchvision
+
+
+# ----------------------
+# Production Server
+# ----------------------
+gevent
+gunicorn
